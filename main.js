@@ -1,7 +1,7 @@
-// const a = 10;
-// for (let i = 1; i <= 10; i++) {
-//     console.log(i);
-// }
+const a = 10;
+for (let i = 1; i <= 10; i++) {
+    console.log(i);
+}
 //second with function
 // function ReverseString(str) {
 
@@ -76,7 +76,7 @@
 // sort 
 // reduce 
 
-const array=[10,20,10,20,30,40]
-array.forEach(element => {
-    console.log(element)
-});
+// const array=[10,20,10,20,30,40]
+// array.forEach(element => {
+//     console.log(element)
+// });
